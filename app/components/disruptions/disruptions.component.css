@@ -1,0 +1,28 @@
+.route-type-radio-group {
+    display: inline-flex;
+    flex-direction: row;
+  }
+  
+  .route-type-radio-button {
+    margin: 15px;
+  }
+
+  .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle {
+    border-color: rgb(66, 134, 244);
+  }
+
+  .mat-radio-button.mat-accent .mat-radio-inner-circle{
+    border-color: rgb(8, 35, 77);
+  }
+
+.mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element {
+    background-color:rgb(66, 134, 244,.26);
+  }
+  
+  .route-type-selected-value {
+    margin: 15px 0;
+  }
+
+  .disruptions_list {
+    list-style: none;  /* hide the bullet in list items*/
+  }
