@@ -6,11 +6,14 @@ body { margin: 0; font-family: 'Roboto', sans-serif; }
 .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle {
     border-color: rgb(66, 134, 244);
 }
-
+.mat-radio-button.mat-accent.mat-radio-checked .mat-radio-inner-circle {
+    border-color: rgb(66, 134, 244);
+    background-color:rgb(38, 62, 197);
+}
 .mat-radio-button.mat-accent .mat-radio-inner-circle{
-    border-color: rgb(8, 35, 77);
+    border-color: rgb(18, 35, 77);
 }
 
-.mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element {
-    background-color:rgb(66, 134, 244,.26);
+.top-buffer-40 { 
+    margin-top:40px; 
   }

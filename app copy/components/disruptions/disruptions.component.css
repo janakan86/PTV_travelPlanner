@@ -15,12 +15,8 @@
     border-color: rgb(8, 35, 77);
   }
 
-  .mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element {
+.mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element {
     background-color:rgb(66, 134, 244,.26);
-  }
-
-  .top-buffer-20 { 
-    margin-top:20px; 
   }
   
   .route-type-selected-value {
