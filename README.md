@@ -1,6 +1,6 @@
 # PTV_travelPlanner
-A Angular application to view disruptions and plan travel within the State of Victoria, Australia.
-The app consumes data from the PTV Timetable API
+An Angular application to view disruptions and plan travel within the State of Victoria, Australia.
+The app consumes data from the PTV Timetable API.
 
 ![alt text](https://github.com/janakan86/PTV_travelPlanner/blob/master/screenCapture.png)
 
