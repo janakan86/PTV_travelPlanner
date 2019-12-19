@@ -1,19 +1,27 @@
-# PTV_travelPlanner
-An Angular application to view disruptions and plan travel within the State of Victoria, Australia.
-The app consumes data from the PTV Timetable API.
+# PtvFrontEnd
 
-![alt text](https://github.com/janakan86/PTV_travelPlanner/blob/master/screenCapture.png)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.0-rc.3.
 
+## Development server
 
-## High level tasks
-- [x] Build a URL creator, that signs request and creates URL 
-- [x] Build Typescript models for Routes, Disruptions and Route Types
-- [x] Build Service layer
-- [x] GET request for route types
-- [x] POST request to create URL
-- [x] GET request for disruptions
-- [x] Build disruptions UI
-- [x] Incorporate Bootstrap
-- [x] Build home page (add bootstrap navbar, layout etc)
-- [x] Design travel planning
-- [ ] Service layer for travle plannning
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
